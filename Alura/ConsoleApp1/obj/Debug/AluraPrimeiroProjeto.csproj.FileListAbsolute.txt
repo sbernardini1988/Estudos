@@ -1,0 +1,7 @@
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\obj\Debug\AluraPrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\obj\Debug\AluraPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sabrina.boaro\Source\Repos\Alura\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

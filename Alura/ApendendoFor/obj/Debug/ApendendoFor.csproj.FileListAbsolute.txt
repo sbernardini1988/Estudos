@@ -1,0 +1,7 @@
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\bin\Debug\ApendendoFor.exe.config
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\bin\Debug\ApendendoFor.exe
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\bin\Debug\ApendendoFor.pdb
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\obj\Debug\ApendendoFor.csprojAssemblyReference.cache
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\obj\Debug\ApendendoFor.csproj.CoreCompileInputs.cache
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\obj\Debug\ApendendoFor.exe
+C:\Users\sabrina.boaro\Source\Repos\Alura\ApendendoFor\obj\Debug\ApendendoFor.pdb
