@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Modelos
 {
-    public class ContaCorrente
+    public class ContaCorrente : IComparable
     {
         private static int TaxaOperacao;
 
@@ -107,6 +107,41 @@ namespace ByteBank.Modelos
             }
 
             contaDestino.Depositar(valor);
+        }
+
+        public override bool Equals(object obj)
+        {
+            ContaCorrente novaConta = obj as ContaCorrente;
+
+             if(novaConta == null)
+            {
+                return false;
+            }
+
+            return (Numero == novaConta.Numero && Agencia == novaConta.Agencia);
+
+        }
+
+        public int CompareTo(object obj)
+        {
+            var outraConta = obj as ContaCorrente;
+
+            if (outraConta == null)
+            {
+                return -1;
+            }
+
+            if (Numero < outraConta.Numero)
+            {
+                return -1;
+            }
+
+            if (Numero == outraConta.Numero)
+            {
+                return 0;
+            }
+
+            return 1;
         }
     }
 

@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2011
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.SistemaAgencia", "ByteBank.SistemaAgencia\ByteBank.SistemaAgencia.csproj", "{2C9C301E-5B56-4195-8662-30C84E970EC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Modelos", "ByteBank.Modelos\ByteBank.Modelos.csproj", "{C2175F0D-7024-465E-947F-C0FB51887A9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressoesRegulares", "ExpressoesRegulares\ExpressoesRegulares.csproj", "{5BFAB655-8D1E-409D-89AD-397C7741AE10}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AprendendoArray", "AprendendoArray\AprendendoArray.csproj", "{E52EB2C4-0989-40B1-903F-9547D2352858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradasESaidas", "EntradasESaidas\EntradasESaidas.csproj", "{A15DABA7-D396-4C76-ACA0-36BDF728E486}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{5BFAB655-8D1E-409D-89AD-397C7741AE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BFAB655-8D1E-409D-89AD-397C7741AE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BFAB655-8D1E-409D-89AD-397C7741AE10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52EB2C4-0989-40B1-903F-9547D2352858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52EB2C4-0989-40B1-903F-9547D2352858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52EB2C4-0989-40B1-903F-9547D2352858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52EB2C4-0989-40B1-903F-9547D2352858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15DABA7-D396-4C76-ACA0-36BDF728E486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15DABA7-D396-4C76-ACA0-36BDF728E486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15DABA7-D396-4C76-ACA0-36BDF728E486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15DABA7-D396-4C76-ACA0-36BDF728E486}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
