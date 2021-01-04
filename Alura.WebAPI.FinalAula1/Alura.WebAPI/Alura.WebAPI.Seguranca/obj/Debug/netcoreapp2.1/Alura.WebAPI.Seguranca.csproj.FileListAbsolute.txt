@@ -1,0 +1,4 @@
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.FinalAula1\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.FinalAula1\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.FinalAula1\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfo.cs
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.FinalAula1\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.deps.json
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csprojAssemblyReference.cache
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\saber\source\repos\sbernardini1988\Estudos\Alura.WebAPI.ProjetoInicial\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
