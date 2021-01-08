@@ -8,7 +8,9 @@ namespace Alura.WebApi.Api.Controllers
 {
     [Authorize]
     [ApiController]
-    [Route("api/[controller]")]
+    [ApiVersion("1.0")]
+    [ApiVersion("2.0")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     public class LivrosController : ControllerBase
     {
         private readonly IRepository<Livro> _repo;
@@ -51,7 +53,7 @@ namespace Alura.WebApi.Api.Controllers
             return Ok(model.ToApi());
         }
         [HttpPost]
-        public IActionResult Incluir([FromBody]LivroUpload model)
+        public IActionResult Incluir([FromForm]LivroUpload model)
         {
             if (ModelState.IsValid)
             {
@@ -64,7 +66,7 @@ namespace Alura.WebApi.Api.Controllers
         }
 
         [HttpPut]
-        public IActionResult Alterar([FromBody]LivroUpload model)
+        public IActionResult Alterar([FromForm]LivroUpload model)
         {
             if (ModelState.IsValid)
             {

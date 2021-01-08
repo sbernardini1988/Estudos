@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9Len42A2qEs6Ha3EOjb0g04BxbzURQUXqS8mPVbaLAYemPuXbPqyKqGGX1gXLQmW4r6w3gcEf9ULNDC+Lwwrkg==",
+  "dgSpecHash": "1n25liPBqNz9KMxQfsrOcHgx5y98Oo/a9sVCyPqrZUiGYl5wvjsBCCIFqt0MavsuDxZ+wQruvePE/rzqhZu5dQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\saber\\source\\repos\\sbernardini1988\\Estudos\\Alura.WebAPI.ProjetoInicial\\Alura.WebAPI\\Alura.WebApi.Api\\Alura.WebApi.Api.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\saber\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.0\\microsoft.aspnetcore.http.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\saber\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.0\\microsoft.aspnetcore.http.extensions.2.1.0.nupkg.sha512",
     "C:\\Users\\saber\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
+    "C:\\Users\\saber\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.2.0\\microsoft.aspnetcore.mvc.versioning.4.2.0.nupkg.sha512",
     "C:\\Users\\saber\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.1.0\\microsoft.aspnetcore.webutilities.2.1.0.nupkg.sha512",
     "C:\\Users\\saber\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\saber\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.0\\microsoft.entityframeworkcore.2.1.0.nupkg.sha512",
